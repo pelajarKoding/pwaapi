@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Genet, small-spotted","category":"Crimson"},
+{"id":2,"name":"Andean goose","category":"Turquoise"},
+{"id":3,"name":"Common nighthawk","category":"Aquamarine"},
+{"id":4,"name":"Blue and gold macaw","category":"Maroon"},
+{"id":5,"name":"Waxbill, black-cheeked","category":"Yellow"},
+{"id":6,"name":"Llama","category":"Red"},
+{"id":7,"name":"White-rumped vulture","category":"Mauv"},
+{"id":8,"name":"Cobra (unidentified)","category":"Crimson"},
+{"id":9,"name":"Gray duiker","category":"Aquamarine"},
+{"id":10,"name":"Feathertail glider","category":"Fuscia"},
+{"id":11,"name":"Kite, black","category":"Blue"},
+{"id":12,"name":"Yellow-billed stork","category":"Maroon"},
+{"id":13,"name":"Wallaby, euro","category":"Mauv"},
+{"id":14,"name":"Swainson's francolin","category":"Crimson"},
+{"id":15,"name":"Wallaby, dama","category":"Turquoise"},
+{"id":16,"name":"Beaver, north american","category":"Goldenrod"},
+{"id":17,"name":"Deer, swamp","category":"Red"},
+{"id":18,"name":"Hawk, ferruginous","category":"Purple"},
+{"id":19,"name":"Dragon, western bearded","category":"Indigo"},
+{"id":20,"name":"Blue catfish","category":"Crimson"}
+]
+}
